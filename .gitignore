@@ -1,0 +1,17 @@
+.Python
+[Bb]in
+[Ii]nclude
+[Ll]ib
+[Ll]ib64
+[Ll]ocal
+[Ss]cripts
+pyvenv.cfg
+.venv
+venv
+.ipynb_checkpoints
+fed
+etc
+share
+pip-selfcheck.json
+df_combined.csv
+.df_combined.csv
